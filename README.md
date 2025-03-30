@@ -1,4 +1,4 @@
-# 🚀 Desafio 1 - DEVOPS PRO
+# 🚀 Desafio 1 - DEVOPS PRO 1
 
 Este projeto foi desenvolvido como parte do desafio **DevOps PRO**, ministrada pelo professor **Fabrício Veronez**.
 
@@ -57,4 +57,6 @@ O link para a imagem no Docker Hub encontra-se no arquivo:
 </table>
 
 ---
-
+---
+Desenvolvido por **Arthus Almeida** 👨‍💻  
+Desafio **DEVOPS PRO 1 – Fabricio Veronez**
