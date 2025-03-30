@@ -44,3 +44,8 @@ O link para a imagem no Docker Hub encontra-se no arquivo:
 
 > Enviado conforme solicitado: repositório forkado com Dockerfile e link da imagem publicados.
 
+---
+
+## 🏅 Certificação / Reconhecimento
+
+![Badge de Conclusão](./Desafio%20DevOps%20%26%20Cloud%20-%20Desafio%20Docker%20-%202025-03-20.png)
