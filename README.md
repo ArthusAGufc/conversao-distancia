@@ -46,11 +46,15 @@ O link para a imagem no Docker Hub encontra-se no arquivo:
 
 ---
 
-## 🏅 Certificação / Reconhecimento
+<h2 align="center">🏅 Certificação / Reconhecimento</h2>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="./Desafio%20DevOps%20%26%20Cloud%20-%20Desafio%20Docker%20-%202025-03-20.png" alt="Badge de Conclusão" width="300"/>
+    </td>
+  </tr>
+</table>
+
 ---
 
-| BADGE                            |
-|----------------------------------|
-|![Badge de Conclusão](./Desafio%20DevOps%20%26%20Cloud%20-%20Desafio%20Docker%20-%202025-03-20.png) |
-
----
