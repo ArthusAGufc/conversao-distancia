@@ -30,6 +30,12 @@ O objetivo principal é **containerizar a aplicação "Conversão de Distâncias
 
 ### 3. Publicação da Imagem
 
+O link para a imagem no Docker Hub encontra-se no arquivo:
+
+👉 [`dockerhub.md`](./dockerhub.md)
+
+---
+
 ## 📦 Docker Hub
 
 🔗 [https://hub.docker.com/r/arthusagufc/conversao-distancia-desafio2203](https://hub.docker.com/r/arthusagufc/conversao-distancia-desafio2203)
