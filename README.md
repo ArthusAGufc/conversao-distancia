@@ -57,6 +57,16 @@ O link para a imagem no Docker Hub encontra-se no arquivo:
 </table>
 
 ---
+
+## 🔗 Desafio Relacionado
+
+Este projeto faz parte de uma sequência de desafios propostos no curso **DEVOPS PRO**.
+
+🔍 Acesse também o repositório do desafio **Fake Shop - CI/CD + Kubernetes**:
+
+👉 [`Fake Shop`](https://github.com/ArthusAGufc/fake-shop)
+
 ---
+
 Desenvolvido por **Arthus Almeida** 👨‍💻  
 Desafio **DEVOPS PRO 1 – Fabricio Veronez**
