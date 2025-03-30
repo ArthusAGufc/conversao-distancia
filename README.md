@@ -46,7 +46,7 @@ O link para a imagem no Docker Hub encontra-se no arquivo:
 
 ---
 
-<h2 align="center">🏅 Certificação / Reconhecimento</h2>
+<h2 align="center">🏅 BADGE DE ENTREGA </h2>
 
 <table align="center">
   <tr>
